@@ -12,7 +12,7 @@ module.exports = function (source) {
     encode: true,  // encode 方法
     decode: true,  // decode 方法
     verify: false,  // verify 方法
-    convert: false,  // convert 方法
+    convert: true,  // convert 方法
     delimited: true, // encodeDelimited 方法
     beautify: false, // 是否美化生成的代码 默认false
     comments: true, // 注释 uglify会删除所以打包是默认保留
