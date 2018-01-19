@@ -26,7 +26,7 @@
     "url": "https://github.com/yejinjian/protobuf-loader"
   },
   "peerDependencies": {
-    "webpack": "^1.14.0",
+    "webpack": "^3.6.0",
     "protobufjs": "^6.8.0"
   },
   "dependencies": {
